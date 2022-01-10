@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = slv.gonzalez.aller@gmail.com
+	name = Silvia Gonzalez
